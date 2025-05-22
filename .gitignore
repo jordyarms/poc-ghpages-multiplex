@@ -1,0 +1,17 @@
+# Previously
+site
+planSite
+ship_dev.sh
+
+# New
+_site
+.DS_Store
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+*/.DS_Store
+vendor
+
+# Newer
+images/*
+makesite/*
