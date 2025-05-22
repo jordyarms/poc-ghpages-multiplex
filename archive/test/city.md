@@ -1,2 +1,0 @@
-# Costs to the city
-
